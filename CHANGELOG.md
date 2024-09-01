@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Sep 01 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@bruce845](https://github.com/bruce845))
+
+#### Authors: 1
+
+- [@bruce845](https://github.com/bruce845)
+
+---
+
 # v0.0.1 (Sun Sep 01 2024)
 
 :tada: This release contains work from a new contributor! :tada:
