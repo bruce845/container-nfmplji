@@ -6,4 +6,5 @@ COPY requirements.txt /usr/src/app/
 RUN pip install -U -r requirements.txt
 COPY ./web /usr/src/app/
 COPY ./entrypoint.sh /
+EXPOSE 5000
 ENTRYPOINT ["/entrypoint.sh"]
